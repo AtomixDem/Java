@@ -1,4 +1,3 @@
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -16,6 +15,5 @@ public class MyFrame extends JFrame {
 		this.setSize(500, 500);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setVisible(true);
-		
 	}
 }
